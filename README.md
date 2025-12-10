@@ -25,7 +25,7 @@ root/
  └── README.md             # ← you should save this file here  
 ```
 
-*(Add or adjust folders if your project structure evolves)*
+
 
 ## Getting Started / Installation
 
